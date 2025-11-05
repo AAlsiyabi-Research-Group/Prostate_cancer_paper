@@ -7,7 +7,7 @@ Natural and Medical Sciences Research Center, University of Nizwa, Oman
 
 ---
 
-### 📄 Paper
+### Paper
 **"A Minimal Plasma Proteome-Based Biomarker Panel for Accurate Prostate Cancer Diagnosis"**  
 *Syed Ahsan Shahid, Ahmed Al-Harrasi, Adil Al-Siyabi* (2025)
 
@@ -16,7 +16,7 @@ It enables large-scale, parallelized biomarker discovery in high-dimensional omi
 
 ---
 
-## ⚙️ Overview
+## Overview
 
 This script implements a **parallelized GA-based feature selection pipeline** using the `sklearn-genetic` library.  
 It was originally applied to plasma proteomics data to identify a minimal, high-performing panel of proteins for prostate cancer classification.
@@ -30,7 +30,7 @@ It was originally applied to plasma proteomics data to identify a minimal, high-
 
 ---
 
-## 🧠 Dataset
+## Dataset
 
 This framework is compatible with the **Olink Explore 1536 pan-cancer plasma proteomics dataset** published by  
 **Álvez et al. (2023), Nature Communications**,  
@@ -41,7 +41,7 @@ This framework is compatible with the **Olink Explore 1536 pan-cancer plasma pro
 
 ---
 
-## 🧩 Requirements
+## Requirements
 
 Install dependencies:
 
